@@ -13,7 +13,7 @@ This project focuses on predicting future sales based on historical sales data a
  - Use historical sales data and business-related features to predict future sales with high accuracy using **XGBoost**.
 
 **🔍 Identify Key Sales Drivers**  
-  - Determine which factors (e.g., store type, product category, promotions, seasonality) have the strongest impact on sales.
+  - Determine which factors have the strongest impact on sales.
 
 **📊 Optimize Business Strategies**  
   - Provide insights to support decision-making in inventory planning, pricing, and marketing.
