@@ -31,3 +31,13 @@ This project focuses on predicting future sales based on historical sales data a
 - ⚙️ Scikit-learn for preprocessing, metrics, and pipelines
 - 💻 Jupyter Notebook for development and reporting
 
+## 💯 Model Performance
+
+Using **XGBoost**, the model reached a **Root Mean Squared Error (RMSE) of 0.05**, demonstrating excellent performance in forecasting sales.
+
+## 🧑‍💻 Author
+**Mortadha Ferchichi**
+
+- 📧 ferchichii.mortadha@gmail.com
+- 🌐 https://github.com/morta123456
+
