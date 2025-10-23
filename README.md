@@ -24,3 +24,10 @@ This project focuses on predicting future sales based on historical sales data a
 **⚙️ Model Optimization for Best Performance**  
   - Fine-tune the XGBoost model parameters and training process to achieve the lowest possible **Root Mean Squared Error (RMSE)** and ensure reliable sales predictions.
 
+## 🛠️ Tech Stack
+- 🐍 Python 3.8+
+- 📊 Pandas, NumPy for data manipulation
+- 📈 Matplotlib, Seaborn for EDA and visualization
+- ⚙️ Scikit-learn for preprocessing, metrics, and pipelines
+- 💻 Jupyter Notebook for development and reporting
+
